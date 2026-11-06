@@ -38,16 +38,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zmartinl/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:zmartinllera1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/zeusmartin__/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://zmartinl.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Mi%20Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mi%20Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -56,8 +56,8 @@
 ### 📊 &nbsp;Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zmartinl&show_icons=true&theme=radical&border_radius=10&hide_border=true&count_private=true" height="180" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmartinl&layout=compact&theme=radical&border_radius=10&hide_border=true" height="180" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zmartinl&show_icons=true&theme=radical&border_radius=10&hide_border=true&count_private=true&v=1" height="180" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmartinl&layout=compact&theme=radical&border_radius=10&hide_border=true&v=1" height="180" alt="Lenguajes más usados" />
 </div>
 
 ---
@@ -65,12 +65,11 @@
 ### 📈 &nbsp;Gráfico de actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zmartinl&theme=tokyo-night&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zmartinl&theme=tokyo-night&hide_border=true&v=1" width="90%" alt="Gráfico de actividad"/>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/zmartinl/zmartinl/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%; height:auto;" />
+  <img src="https://raw.githubusercontent.com/zmartinl/zmartinl/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%; height:auto;" />
 </p>
-
